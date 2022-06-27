@@ -7,5 +7,8 @@
   **Insertion Sort**\
   **Merge Sort**\
   **Quick Sort**\
-  **Heap Sort**
-
+  **Heap Sort**\
+  **Counting Sort**\
+  **Shell Sort**\
+  **Radix Sort**\
+  **Bucket Sort**
