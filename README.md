@@ -2,16 +2,16 @@
   In this repo one can find all the sorting techniques listed in the decreasing order of worst case time complexity.
 
 ## Types of Sorting
-  **1. Selection Sort**\
-  **2. Bubble Sort**\
-  **3. Insertion Sort**\
-  **4. Merge Sort**\
-  **5. Quick Sort**\
-  **6. Heap Sort**\
-  **7. Counting Sort**\
-  **8. Shell Sort**\
-  **9. Radix Sort**\
-  **10. Bucket Sort**
+  **1) Selection Sort**\
+  **2) Bubble Sort**\
+  **3) Insertion Sort**\
+  **4) Merge Sort**\
+  **5) Quick Sort**\
+  **6) Heap Sort**\
+  **7) Counting Sort**\
+  **8) Shell Sort**\
+  **9) Radix Sort**\
+  **10) Bucket Sort**
 
 ## Time Complexity and Space Complexity
 | Sorting Algorithm | Time Complexity - Best | Time Complexity - Worst | Time Complexity - Average | Space Complexity |
