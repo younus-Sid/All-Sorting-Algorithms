@@ -1,4 +1,4 @@
-// Bubble sort in C++
+// Bubble sort code in C++
 
 #include <iostream>
 using namespace std;
