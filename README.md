@@ -5,13 +5,14 @@
   **1) Selection Sort**\
   **2) Bubble Sort**\
   **3) Insertion Sort**\
-  **4) Merge Sort**\
-  **5) Quick Sort**\
-  **6) Heap Sort**\
-  **7) Counting Sort**\
-  **8) Shell Sort**\
-  **9) Radix Sort**\
-  **10) Bucket Sort**
+  **4) Quick Sort**\
+  **5) Shell Sort**\
+  **6) Bucket Sort**\
+  **7) Heap Sort**\
+  **8) Merge Sort**\
+  **9) Counting Sort**\
+  **10) Radix Sort**
+  
 
 ## Time Complexity and Space Complexity
 | Sr. No | Sorting Algorithm | Time Complexity - Best | Time Complexity - Worst | Time Complexity - Average | Space Complexity |
