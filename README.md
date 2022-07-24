@@ -1,5 +1,5 @@
 # All Sorting Algorithms
-  In this repo one can find all the sorting techniques listed in the decreasing order of worst case time complexity.
+  In this repo one can find all the sorting techniques listed in the decreasing order of their worst case time complexity.
 
 ## Types of Sorting
   **01) Selection Sort**\
