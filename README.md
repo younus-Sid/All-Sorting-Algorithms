@@ -25,5 +25,5 @@
 | 6.     | Counting Sort     | n+k	              | n+k	                | n+k	                    | max              |
 | 7.     | Radix Sort	     | n+k	              | n+k	                | n+k	                    | max              |
 | 8.     | Bucket Sort	     | n+k	              | n²	                | n	                    | n+k              |
-| 9.     | Heap Sort	     | nlogn	              | nlogn	                | nlogn	                    | 1                |
+| 9.     | Heap   Sort	     | nlogn	              | nlogn	                | nlogn	                    | 1                |
 | 10.    | Shell Sort	     | nlogn	              | n²	                | nlogn                     | 1                |
