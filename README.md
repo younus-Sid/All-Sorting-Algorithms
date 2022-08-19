@@ -1,5 +1,5 @@
 # All Sorting Algorithms
-  In this repo one can find all the sorting techniques listed in the decreasing order of their worst case time complexity.
+  In this repo one can find all the sorting techniques listed in the decreasing order of their worst case time complexity. All code is in C++ language.
 
 ## Types of Sorting
   **01) Selection Sort**\
