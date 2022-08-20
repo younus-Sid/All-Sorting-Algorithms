@@ -15,7 +15,7 @@
   
 
 ## Time Complexity and Space Complexity
-| Sr. No | Sorting Algorithm | Time Complexity - Best | Time Complexity - Worst | Time Complexity - Average | Space Complexity |
+| SR. NO | SORTING ALGORITHM | TIME COMPLEXITY - Best | TIME COMPLEXITY - Worst | TIME COMPLEXITY - AVERAGE | SPACE COMPLEXITY |
 | ------ | ----------------- | ---------------------- | ----------------------- | ------------------------- | ---------------- |
 | 1.     | Bubble Sort       | n                      | n²	                | n²	                    | 1                |
 | 2.     | Selection Sort    | n²                     | n²	                | n²	                    | 1                |   
