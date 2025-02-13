@@ -1,6 +1,10 @@
 # All Sorting Algorithms
   In this repo one can find all the sorting techniques listed in the decreasing order of their worst case time complexity. All code is in C++ language.
 
+# NOTE
+  1) IBM Stable hai. (Insertion, Bubble, Merge sort are stable)
+  2) QSBI In-place hai? (Quick, Selection, Bubble, Insertion sort are inplace)
+
 ## Types of Sorting
   **01) Selection Sort**\
   **02) Bubble Sort**\
